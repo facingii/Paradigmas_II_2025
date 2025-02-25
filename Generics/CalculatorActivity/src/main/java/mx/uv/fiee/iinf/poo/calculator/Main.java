@@ -12,9 +12,9 @@ public class Main {
         System.out.println (doubleCalc.average ());
 
         // esto debe fallar
-//      String [] strNums = { "1", "2", "3", "4", "5" };
-//      Calculator<String> strCalc = new Calculator<String> (strNums);
-//      System.out.println (strCalc.average ());
+      String [] strNums = { "1", "2", "3", "4", "5" };
+      Calculator<String> strCalc = new Calculator<String> (strNums);
+      System.out.println (strCalc.average ());
     }
     
 }
