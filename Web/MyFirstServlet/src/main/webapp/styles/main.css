@@ -1,0 +1,15 @@
+body h2 {
+    font-family: Helvetica, monospace, serif;
+    font-size: 16pt;
+    text-align: center;
+}
+
+#landing_logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 640px;
+    height: 480px;
+}
+
+
