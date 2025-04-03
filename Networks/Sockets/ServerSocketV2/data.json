@@ -1,0 +1,14 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Give me a meal plan for today"
+    }
+  ],
+  "model": "mixtral-8x7b-32768",
+  "temperature": 0.5,
+  "max_tokens": 1024,
+  "top_p": 1,
+  "stream": false,
+  "stop": null
+}
